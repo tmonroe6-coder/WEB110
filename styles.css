@@ -1,0 +1,35 @@
+/* Tierney Monroe, 2/12/26 */ 
+
+/* selector { declaration: value;} */
+/* selector: HTML element, class, ID */
+/* declaration: the style I want to change */
+
+
+/* Global styles */
+body {
+  background-color: #F5EFE6;
+  color: #4B3832;
+}
+
+/* Header */
+header {
+  background-color: #8B5E3B;
+  color: #FFFFFF;
+}
+
+/* Navigation */
+nav {
+  background-color: #D4A373;
+}
+
+/* Main content */
+main {
+  background-color: #FFFFFF;
+}
+
+/* Footer */
+footer {
+  background-color: #8B5E3B;
+  color: #FFFFFF;
+}
+
